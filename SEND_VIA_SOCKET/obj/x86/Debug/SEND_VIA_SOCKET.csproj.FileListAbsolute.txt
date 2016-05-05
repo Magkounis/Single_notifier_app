@@ -1,0 +1,7 @@
+c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\bin\Debug\SEND_VIA_SOCKET.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\bin\Debug\SEND_VIA_SOCKET.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.exe
+c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.pdb
