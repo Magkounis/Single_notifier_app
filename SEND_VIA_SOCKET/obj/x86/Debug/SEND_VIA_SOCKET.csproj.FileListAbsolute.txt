@@ -5,3 +5,5 @@ c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEN
 c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.csproj.GenerateResource.Cache
 c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.exe
 c:\users\administrator\documents\visual studio 2010\Projects\SEND_VIA_SOCKET\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Single_notifier_app\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Single_notifier_app\SEND_VIA_SOCKET\obj\x86\Debug\SEND_VIA_SOCKET.pdb
