@@ -1,0 +1,9 @@
+<note>
+  <mode></mode>
+  <remoteip></remoteip>
+  <database>test</database>
+  <server>SRV\SRVSQL</server>
+  <password>lili</password>
+  <dbuser>sa</dbuser>
+  <port>2000</port>
+ </note>
