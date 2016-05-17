@@ -11,6 +11,7 @@ C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Sin
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.parameters.resources
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Properties.Resources.resources
 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\SEND_VIA_SOCKET\Single_notifier_app\WindowsFormsApplication3\obj\x86\Debug\WindowsFormsApplication3.Vale_Host_Names.resources

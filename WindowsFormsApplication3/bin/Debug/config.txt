@@ -5,5 +5,5 @@
   <server>SRV\SRVSQL</server>
   <password>lili</password>
   <dbuser>sa</dbuser>
-  <port>2000</port>
+  <port>2001</port>
  </note>

@@ -25,6 +25,7 @@ namespace WindowsFormsApplication3
             listBox1.SelectedIndexChanged += new EventHandler(listBox1_SelectedIndexChanged);
             listBox2.SelectedIndexChanged += new EventHandler(listBox2_SelectedIndexChanged);
             button1.Visible = false;
+            addIPOrHostnameToolStripMenuItem.Enabled = false;
 
             prmtrs = new Readfromexml("config.txt");
             transmit=new Transmitviasocketdatagram();
@@ -70,21 +71,20 @@ namespace WindowsFormsApplication3
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-           
-
         }
 
         private void Connect_Click(object sender, EventArgs e)
         {
             button1.Text = "Send";
             button1.Visible = true;
+            Connect.Text = "Refresh";
+            addIPOrHostnameToolStripMenuItem.Enabled = true;
             try
             {
                 listBox1.Items.Clear();
                 listBox2.Items.Clear();
                 SqlConnection sqlcon = new SqlConnection("user id="+prmtrs.Dbuser+";" + "password="+prmtrs.Password+";server="+prmtrs.Server+";" + "Trusted_Connection=no;" + "database="+prmtrs.Database+"; " + "connection timeout=30");
-                SqlCommand sqlcom = new SqlCommand("select NAME,IP from test1", sqlcon);//connect to sql in table test1
+                SqlCommand sqlcom = new SqlCommand("select NAME,IP from WHMUSERS", sqlcon);//connect to sql in table test1
                 sqlcon.Open();
                 SqlDataReader sqlrdr = sqlcom.ExecuteReader();//execute querry and pass it to list box
 
@@ -134,6 +134,23 @@ namespace WindowsFormsApplication3
         private void button1_Click(object sender, EventArgs e)
         {
              transmit.initializesocket(ref Result,prmtrs.remoteip,prmtrs.Port);//execute socket initialization and save result to bool result referenced
+        }
+
+        private void toolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void addIPOrHostnameToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Vale_Host_Names form2 = new Vale_Host_Names();
+            form2.Enabled = true;
+            form2.Show();
         }
     }
 

@@ -57,6 +57,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Readfromexml.cs" />
     <Compile Include="Transmitviasocketdatagram.cs" />
+    <Compile Include="Vale_Host_Names.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vale_Host_Names.Designer.cs">
+      <DependentUpon>Vale_Host_Names.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -69,6 +75,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Vale_Host_Names.resx">
+      <DependentUpon>Vale_Host_Names.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
