@@ -148,13 +148,11 @@ namespace WindowsFormsApplication3
 
         private void addIPOrHostnameToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Vale_Host_Names form2 = new Vale_Host_Names();
+            Vale_Host_Names form2 = new Vale_Host_Names(prmtrs);
             form2.Enabled = true;
             form2.Show();
         }
     }
 
-    public static class parameters
-    {
-    }
+    
 }
