@@ -84,7 +84,7 @@
             this.Controls.Add(this.dataGridView1);
             this.Name = "Vale_Host_Names";
             this.Text = "Vale_Host_Names";
-           
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Vale_Host_Names_FormClosed);
             this.Load += new System.EventHandler(this.Vale_Host_Names_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataSet1)).EndInit();
